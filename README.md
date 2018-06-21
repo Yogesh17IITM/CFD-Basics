@@ -13,8 +13,8 @@ This repositary provides technical description of application and importance of 
 (See SPH repository for more details)			    
       	   
 
-Important Notes:
-^^^^^^^^^^^^^^^
+## Important Notes:
+
 * ANSYS Software is used for validating outcomes (Academic license).
 
 Last updated by Yogesh on June, 2018.
