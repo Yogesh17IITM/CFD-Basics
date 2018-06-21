@@ -6,8 +6,8 @@ This repositary provides technical description of application and importance of 
 Sl.No &nbsp; List of Problems &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Code availabe	&nbsp;&nbsp;Lang. used&nbsp;&nbsp; Contributors	</br>
 ^^^^^ &nbsp;^^^^^^^^^^^^^^^^ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ^^^^^^^^^^^^^&nbsp;&nbsp;^^^^^^^^^^&nbsp;&nbsp;^^^^^^^^^^^^
 
-1)  	Lid Driven Cavity Problem      Yes		FORTRAN,MATLAB	 Vijay and Myself 
-2)	Dam Break		    Only results		C++	    Myself </br>
+1.)  	Lid Driven Cavity Problem      Yes		FORTRAN,MATLAB	 Vijay and Myself 
+2.)	Dam Break		    Only results		C++	    Myself </br>
 				 (Not for public use)    
 				     
 # Dam Break problem 
