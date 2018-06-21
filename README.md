@@ -9,8 +9,11 @@ This repositary provides technical description of application and importance of 
 >1)  	Lid Driven Cavity Problem      Yes		FORTRAN,MATLAB	 Vijay and Myself 
 				     
 # Dam Break problem 
-![demo](DamBreak.gif) 			     
-&center(['Visit SPH repositary for more details']);
+![demo](DamBreak.gif) 	<\br>		     
+
+```
+	&center(['Visit SPH repositary for more details']);
+```
       	   
 
 ## Important Notes:
