@@ -10,7 +10,7 @@ This repositary provides technical description of application and importance of 
 				     
 # Dam Break problem 
 ![demo](DamBreak.gif) 			     
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (See SPH repository for more details)			    
+&center([Visit SPH repositary for more details]);
       	   
 
 ## Important Notes:
