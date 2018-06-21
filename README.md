@@ -10,7 +10,7 @@ Sl.No   List of Problems	   Code availabe	Lang. used	 Contributors
 				 (Not for public use)    
 				     
 # Dam Break problem 
-![demo](CFD-Basics/Meshfree Techniques/DamBreak.gif) 			     
+![demo](DamBreak.gif) 			     
 (See SPH repository for more details)			    
       	   
 
