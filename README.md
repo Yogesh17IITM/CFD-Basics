@@ -12,13 +12,13 @@ This repositary provides technical description of application and importance of 
 ![demo](DamBreak.gif) 			     
 
 ```
-	(See SPH repositary for more details)
+				(See SPH repositary for more details)
 ```
       	   
 
 ## Important Notes:
 
-* ANSYS Software is used for validating outcomes (Academic license).
+* ANSYS Software is used for validating outcomes (Academic license). </br>
 
 Last updated by Yogesh on June, 2018.
 
