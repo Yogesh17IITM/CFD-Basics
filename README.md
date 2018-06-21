@@ -1,10 +1,10 @@
-Foundations of CFD
-^^^^^^^^^^^^^^^^^^
+# Foundations of CFD </br>
 
-This repositary provides technical description of application and importance of CFD in solving classical fluid mechanics problems.
 
-Sl.No   List of Problems	   Code availabe	Lang. used	 Contributors	</br>
-^^^^^   ^^^^^^^^^^^^^^^^	   ^^^^^^^^^^^^^	^^^^^^^^^^	 ^^^^^^^^^^^^
+This repositary provides technical description of application and importance of CFD in solving classical fluid mechanics problems.</br>
+
+Sl.No &nbsp; List of Problems	   Code availabe	Lang. used	 Contributors	</br>
+^^^^^ &nbsp;^^^^^^^^^^^^^^^^	   ^^^^^^^^^^^^^	^^^^^^^^^^	 ^^^^^^^^^^^^
 1)  	Lid Driven Cavity Problem      Yes		FORTRAN,MATLAB	 Vijay and Myself
 2)	Dam Break		    Only results		C++	    Myself
 				 (Not for public use)    
